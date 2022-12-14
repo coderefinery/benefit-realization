@@ -1,0 +1,342 @@
+{
+    "links": [
+        {
+            "source": "[change] Share and collaborate",
+            "target": "[benefit] Training efforts collaborate",
+            "value": "0.25"
+        },
+        {
+            "source": "[change] Share and collaborate",
+            "target": "[benefit] Training portfolio",
+            "value": "0.25"
+        },
+        {
+            "source": "[change] Share and collaborate",
+            "target": "[benefit] RSE collaboration",
+            "value": "0.25"
+        },
+        {
+            "source": "[change] Share and collaborate",
+            "target": "[benefit] Better research software",
+            "value": "0.25"
+        },
+        {
+            "source": "[change] Community-steered",
+            "target": "[benefit] Community-driven project",
+            "value": "1.0"
+        },
+        {
+            "source": "[change] Multiplier effect",
+            "target": "[benefit] Training portfolio",
+            "value": "1.0"
+        },
+        {
+            "source": "[change] Reusable output",
+            "target": "[benefit] Training efforts collaborate",
+            "value": "1.0"
+        },
+        {
+            "source": "[change] International collaboration",
+            "target": "[benefit] Training efforts collaborate",
+            "value": "0.33"
+        },
+        {
+            "source": "[change] International collaboration",
+            "target": "[benefit] Training portfolio",
+            "value": "0.33"
+        },
+        {
+            "source": "[change] International collaboration",
+            "target": "[benefit] Funding applications",
+            "value": "0.33"
+        },
+        {
+            "source": "[change] Citable output",
+            "target": "[benefit] Career development",
+            "value": "1.0"
+        },
+        {
+            "source": "[change] Easier contributing and onboarding",
+            "target": "[benefit] Career development",
+            "value": "0.5"
+        },
+        {
+            "source": "[change] Easier contributing and onboarding",
+            "target": "[benefit] Community-driven project",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Lessons and manuals",
+            "target": "[transfer] Follow-up organization",
+            "value": "1.0"
+        },
+        {
+            "source": "[deliverable] Participation data",
+            "target": "[transfer] Follow-up organization",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Participation data",
+            "target": "[transfer] Public",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Survey and feedback data",
+            "target": "[transfer] Follow-up organization",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Survey and feedback data",
+            "target": "[transfer] Public",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Source code and data",
+            "target": "[transfer] Follow-up organization",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Source code and data",
+            "target": "[transfer] NeIC",
+            "value": "0.5"
+        },
+        {
+            "source": "[deliverable] Blogs, newsletter, social media",
+            "target": "[transfer] Follow-up organization",
+            "value": "1.0"
+        },
+        {
+            "source": "[deliverable] GitLab",
+            "target": "[transfer] ?",
+            "value": "1.0"
+        },
+        {
+            "source": "[deliverable] Lessons and manuals",
+            "target": "[benefit] Better research software",
+            "value": "0.25"
+        },
+        {
+            "source": "[deliverable] Lessons and manuals",
+            "target": "[benefit] Training portfolio",
+            "value": "0.25"
+        },
+        {
+            "source": "[deliverable] Lessons and manuals",
+            "target": "[benefit] Career development",
+            "value": "0.25"
+        },
+        {
+            "source": "[deliverable] Lessons and manuals",
+            "target": "[benefit] RSE collaboration",
+            "value": "0.25"
+        },
+        {
+            "source": "[deliverable] Participation data",
+            "target": "[benefit] Funding applications",
+            "value": "1.0"
+        },
+        {
+            "source": "[deliverable] Survey and feedback data",
+            "target": "[benefit] Funding applications",
+            "value": "1.0"
+        },
+        {
+            "source": "[deliverable] Source code and data",
+            "target": "[benefit] Training efforts collaborate",
+            "value": "1.0"
+        },
+        {
+            "source": "[deliverable] Blogs, newsletter, social media",
+            "target": "[benefit] Training efforts collaborate",
+            "value": "0.33"
+        },
+        {
+            "source": "[deliverable] Blogs, newsletter, social media",
+            "target": "[benefit] Community-driven project",
+            "value": "0.33"
+        },
+        {
+            "source": "[deliverable] Blogs, newsletter, social media",
+            "target": "[benefit] RSE collaboration",
+            "value": "0.33"
+        },
+        {
+            "source": "[deliverable] GitLab",
+            "target": "[benefit] Better research software",
+            "value": "1.0"
+        },
+        {
+            "source": "[benefit] Funding applications",
+            "target": "[metric] Number of applications",
+            "value": "1.0"
+        },
+        {
+            "source": "[benefit] Better research software",
+            "target": "[metric] Survey data",
+            "value": "0.25"
+        },
+        {
+            "source": "[benefit] Better research software",
+            "target": "[metric] Testimonials",
+            "value": "0.25"
+        },
+        {
+            "source": "[benefit] Better research software",
+            "target": "[metric] Feedback data",
+            "value": "0.25"
+        },
+        {
+            "source": "[benefit] Better research software",
+            "target": "[metric] Usage statistics",
+            "value": "0.25"
+        },
+        {
+            "source": "[benefit] Training efforts collaborate",
+            "target": "[metric] Citations",
+            "value": "0.33"
+        },
+        {
+            "source": "[benefit] Training efforts collaborate",
+            "target": "[metric] Workshop statistics",
+            "value": "0.33"
+        },
+        {
+            "source": "[benefit] Training efforts collaborate",
+            "target": "[metric] Participation statistics",
+            "value": "0.33"
+        },
+        {
+            "source": "[benefit] Training portfolio",
+            "target": "[metric] Citations",
+            "value": "0.33"
+        },
+        {
+            "source": "[benefit] Training portfolio",
+            "target": "[metric] Workshop statistics",
+            "value": "0.33"
+        },
+        {
+            "source": "[benefit] Training portfolio",
+            "target": "[metric] Participation statistics",
+            "value": "0.33"
+        },
+        {
+            "source": "[benefit] Career development",
+            "target": "[metric] Citations",
+            "value": "1.0"
+        },
+        {
+            "source": "[benefit] RSE collaboration",
+            "target": "[metric] Workshop statistics",
+            "value": "1.0"
+        },
+        {
+            "source": "[benefit] Community-driven project",
+            "target": "[metric] Workshop statistics",
+            "value": "0.5"
+        },
+        {
+            "source": "[benefit] Community-driven project",
+            "target": "[metric] Participation statistics",
+            "value": "0.5"
+        }
+    ],
+    "nodes": [
+        {
+            "name": "[deliverable] Lessons and manuals"
+        },
+        {
+            "name": "[deliverable] Participation data"
+        },
+        {
+            "name": "[deliverable] Survey and feedback data"
+        },
+        {
+            "name": "[deliverable] Source code and data"
+        },
+        {
+            "name": "[deliverable] Blogs, newsletter, social media"
+        },
+        {
+            "name": "[deliverable] GitLab"
+        },
+        {
+            "name": "[transfer] Follow-up organization"
+        },
+        {
+            "name": "[transfer] Public"
+        },
+        {
+            "name": "[transfer] NeIC"
+        },
+        {
+            "name": "[transfer] ?"
+        },
+        {
+            "name": "[change] Share and collaborate"
+        },
+        {
+            "name": "[change] Community-steered"
+        },
+        {
+            "name": "[change] Reusable output"
+        },
+        {
+            "name": "[change] Multiplier effect"
+        },
+        {
+            "name": "[change] International collaboration"
+        },
+        {
+            "name": "[change] Citable output"
+        },
+        {
+            "name": "[change] Easier contributing and onboarding"
+        },
+        {
+            "name": "[benefit] Funding applications"
+        },
+        {
+            "name": "[benefit] Better research software"
+        },
+        {
+            "name": "[benefit] Training efforts collaborate"
+        },
+        {
+            "name": "[benefit] Training portfolio"
+        },
+        {
+            "name": "[benefit] Career development"
+        },
+        {
+            "name": "[benefit] RSE collaboration"
+        },
+        {
+            "name": "[benefit] Community-driven project"
+        },
+        {
+            "name": "[metric] Survey data"
+        },
+        {
+            "name": "[metric] Testimonials"
+        },
+        {
+            "name": "[metric] Feedback data"
+        },
+        {
+            "name": "[metric] Usage statistics"
+        },
+        {
+            "name": "[metric] Citations"
+        },
+        {
+            "name": "[metric] Workshop statistics"
+        },
+        {
+            "name": "[metric] Participation statistics"
+        },
+        {
+            "name": "[metric] Number of applications"
+        }
+    ]
+}
