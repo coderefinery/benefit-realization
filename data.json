@@ -77,7 +77,7 @@
         },
         {
             "source": "[deliverable] Participation data",
-            "target": "[transfer] Public",
+            "target": "[transfer] Public repositories",
             "value": "0.5"
         },
         {
@@ -87,17 +87,12 @@
         },
         {
             "source": "[deliverable] Survey and feedback data",
-            "target": "[transfer] Public",
+            "target": "[transfer] Public repositories",
             "value": "0.5"
         },
         {
             "source": "[deliverable] Source code and data",
             "target": "[transfer] Follow-up organization",
-            "value": "0.5"
-        },
-        {
-            "source": "[deliverable] Source code and data",
-            "target": "[transfer] NeIC",
             "value": "0.5"
         },
         {
@@ -107,7 +102,7 @@
         },
         {
             "source": "[deliverable] GitLab",
-            "target": "[transfer] ?",
+            "target": "[transfer] UiT (?)",
             "value": "1.0"
         },
         {
@@ -264,13 +259,10 @@
             "name": "[transfer] Follow-up organization"
         },
         {
-            "name": "[transfer] Public"
+            "name": "[transfer] Public repositories"
         },
         {
-            "name": "[transfer] NeIC"
-        },
-        {
-            "name": "[transfer] ?"
+            "name": "[transfer] UiT (?)"
         },
         {
             "name": "[change] Share and collaborate"
