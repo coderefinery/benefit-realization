@@ -5,6 +5,7 @@ This example is based on:
 Data is rendered to:
 - https://coderefinery.github.io/benefit-realization/
 
-This stopped working:
+This used to work but at some point the https://bl.ocks.org service seems to
+have stopped:
 - https://bl.ocks.org/bast/4f8601fda555c0a34407d4866e179d3b
 - https://gist.github.com/bast/4f8601fda555c0a34407d4866e179d3b
